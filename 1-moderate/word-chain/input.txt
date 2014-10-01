@@ -1,0 +1,8 @@
+soup,sugar,peas,rice
+ljhqi,nrtxgiu,jdtphez,wosqm
+cjz,tojiv,sgxf,awonm,fcv
+ab,bc,cd,da
+ab,bc,ca,xx,yy,zz
+aa,aa,bb
+aa,aa,ab
+ab,ba,ab,ba,ca
